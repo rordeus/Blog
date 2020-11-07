@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d21eeeb4-f525-4309-81ba-27a0b0502f8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jxiabFsYgHol1affBu43ZUOWIU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chris\Desktop\Webdevelopment\Udacity\Blog\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d21eeeb4-f525-4309-81ba-27a0b0502f8b" name="Default Changelist" comment="" />
+      <created>1604752211770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604752211770</updated>
+      <workItem from="1604752212789" duration="2621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="287" key="#Notifications" timestamp="1604754234519">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="402" y="287" key="#Notifications/0.0.2293.920@0.0.2293.920" timestamp="1604754234519" />
+    <state x="342" y="0" key="#Project_Structure" timestamp="1604752217859">
+      <screen x="0" y="0" width="1720" height="680" />
+    </state>
+    <state x="342" y="0" key="#Project_Structure/0.0.1720.680@0.0.1720.680" timestamp="1604752217859" />
+    <state x="469" y="355" key="Github.ShareDialog" timestamp="1604755005670">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="469" y="355" key="Github.ShareDialog/0.0.2293.920@0.0.2293.920" timestamp="1604755005670" />
+    <state x="151" y="107" key="SettingsEditor" timestamp="1604753918210">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="151" y="107" key="SettingsEditor/0.0.2293.920@0.0.2293.920" timestamp="1604753918210" />
+    <state x="1291" y="0" width="1009" height="926" key="dock-window-1" timestamp="1604753856299">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="1291" y="0" width="1009" height="926" key="dock-window-1/0.0.2293.920@0.0.2293.920" timestamp="1604753856299" />
+    <state x="1502" y="62" width="587" height="801" key="find.popup" timestamp="1604754029815">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="1502" y="62" width="587" height="801" key="find.popup/0.0.2293.920@0.0.2293.920" timestamp="1604754029815" />
+    <state x="1458" y="200" width="672" height="678" key="search.everywhere.popup" timestamp="1604754033630">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="1458" y="200" width="672" height="678" key="search.everywhere.popup/0.0.2293.920@0.0.2293.920" timestamp="1604754033630" />
+  </component>
+</project>
