@@ -1,0 +1,12 @@
+.blogpost1{
+    background-image: url("images/knit.jpg");
+    background-size: cover;
+    opacity: 0.6;
+}
+
+.blogpost2{
+    background-image: url("images/wool1.jpg");
+    background-size: cover;
+    opacity: 0.6;
+
+}
